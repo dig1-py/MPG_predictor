@@ -1,5 +1,5 @@
-streamlit
-pandas
+streamlit>=1.30
+catboost==1.2.2
 numpy
-catboost
-scikit learn
+pandas
+scikit-learn
